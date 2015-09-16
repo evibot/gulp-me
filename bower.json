@@ -1,0 +1,25 @@
+{
+    "name": "shinagawa2015",
+    "version": "1.0.0",
+    "authors": [
+        "Pixelsquad Pte Ltd <dev@pixelsquad.com.sg>"
+    ],
+    "description": "Shinagawa Eye Centre (2015)",
+    "moduleType": [
+        "globals"
+    ],
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap": "~3.3.5",
+        "angular": "~1.4.5",
+        "angular-animate": "~1.4.6",
+        "angular-bootstrap": "0.13.4"
+    }
+}
